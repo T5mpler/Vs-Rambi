@@ -85,7 +85,7 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Team'],
+			['Mod developers'],
 			['T5mpler',		'T5mpler',		'Programmer, Composer',						'https://twitter.com/RealT5mpler',	'444444'],
 			['1up',			'super_mario_brothers',		'Artist/Animator',					'https://www.youtube.com/channel/UCEeVFDTzxe2K8dMng_7YU7A',		'C30085'],
 			['RhythmShadow',				'Ashadow',			'Charter',				'https://www.youtube.com/channel/UCT6NAFv6laAxDOoWsakri3g',			'4494E6'],
