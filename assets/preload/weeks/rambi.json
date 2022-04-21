@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Rambi",
+			"rambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"rambi",
+		"bf",
+		"gf"
+	],
+	"storyName": "Rambi",
+	"weekName": "Rambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
